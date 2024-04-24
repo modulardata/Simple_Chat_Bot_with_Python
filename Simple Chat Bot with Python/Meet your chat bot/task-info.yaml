@@ -57,6 +57,10 @@ files:
       
       if __name__ == '__main__':    ChattyBotTest('bot.bot').run_tests()
     learner_created: false
-feedback_link: https://hyperskill.org/projects/97/stages/534/implement#comment
+feedback_link: https://hyperskill.org/learn/step/8799#comment
 status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 24 Apr 2024 10:20:06 UTC"
 record: 5
